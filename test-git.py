@@ -1,4 +1,4 @@
-Git = ("Hello Git")
+Git = "Hello Git"
 print(Git)
 
 test = "Hello World"
